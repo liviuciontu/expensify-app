@@ -1,7 +1,3 @@
-# Git Commands
+# Expensify App
 
-git init - Create a new git repo
-git status - View the changes to your projects code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+App that manages users expenses, using React, redux, react router, jest , enzyme, firebase.
